@@ -1,0 +1,5 @@
+
+akotlin:S6310*"Avoid hardcoded dispatchers.(á¥ €8Ÿªèö‚2J$25f400c3-3b2c-46b7-ab3b-f6a75a6f8317
+akotlin:S63105"Avoid hardcoded dispatchers.(Í¡·Ş8Ÿªèö‚2J$fa95f044-5aa8-4f1f-be20-a9f4b67b6fee
+™kotlin:S6306*"TUsing "GlobalScope" here leads to the breaking of structured concurrency principles.(á¥ €8¡ªèö‚2J$cd20c3d2-7016-4d84-b055-127d9134d42c
+¡kotlin:S101"XRename class "registrarse_help_desk" to match the regular expression ^[A-Z][a-zA-Z0-9]*$(ö»óÿÿÿÿÿ8£ªèö‚2J$cc9bdcf7-6109-4208-a21f-3566a7f99e1b

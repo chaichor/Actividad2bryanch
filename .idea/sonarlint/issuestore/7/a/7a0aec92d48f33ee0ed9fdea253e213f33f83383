@@ -1,0 +1,6 @@
+
+akotlin:S6310N"Avoid hardcoded dispatchers.(Í¡·Þ8²°àµƒ2J$d7407409-727b-4d71-a038-5170900d06ca
+akotlin:S6310W"Avoid hardcoded dispatchers.(á¥ €8²°àµƒ2J$81fcdaa3-2c9f-4ce2-a0ab-34b38b949447
+akotlin:S6310h"Avoid hardcoded dispatchers.(Í¡·Þ8²°àµƒ2J$c22af0a5-d03b-43eb-b193-602cc04bf789
+™kotlin:S6306W"TUsing "GlobalScope" here leads to the breaking of structured concurrency principles.(á¥ €8µ°àµƒ2J$e0f95cf1-1087-4354-8fbf-3a390447b3f8
+—kotlin:S101"NRename class "crearticket" to match the regular expression ^[A-Z][a-zA-Z0-9]*$(·Å—’þÿÿÿÿ8¸°àµƒ2J$b878e25b-5f51-40d8-9e47-fb920b10b8e1

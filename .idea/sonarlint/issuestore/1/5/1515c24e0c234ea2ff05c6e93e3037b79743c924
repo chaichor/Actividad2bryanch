@@ -1,0 +1,8 @@
+
+~kotlin:S11721"9Use "_" instead of this unused lambda parameter "dialog".(şÙã­8²öö½ƒ2J$b31e810d-3402-4881-ab03-49de1addf310
+ƒkotlin:S1172T"9Use "_" instead of this unused lambda parameter "dialog".(³–ËÛüÿÿÿÿ8²öö½ƒ2J$2482004a-bc70-4dc4-8c7d-60f4afd8b5d4
+’kotlin:S117"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(×Ò¸8¸öö½ƒ2J$671dfd95-f0df-465e-93ae-ee42de758652
+akotlin:S6310{"Avoid hardcoded dispatchers.(á¥ €8¹öö½ƒ2J$d2668b41-e7dc-4108-9c8c-fbb1c24ff1d6
+bkotlin:S6310•"Avoid hardcoded dispatchers.(á¥ €8»öö½ƒ2J$4661f2f4-c26d-4369-a215-66ec5d8a3955
+™kotlin:S6306{"TUsing "GlobalScope" here leads to the breaking of structured concurrency principles.(á¥ €8»öö½ƒ2J$61d41d7a-c4d0-4e5f-a3b5-6f024278bb2a
+škotlin:S6306•"TUsing "GlobalScope" here leads to the breaking of structured concurrency principles.(á¥ €8»öö½ƒ2J$330624c2-a87c-43cf-8afa-c8b86685a3bc
